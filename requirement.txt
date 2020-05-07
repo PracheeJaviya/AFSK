@@ -1,1 +1,5 @@
 numpy==1.18.4
+scipy
+pyaudio
+portaudio
+pyalsaaudio
